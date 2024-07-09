@@ -1,0 +1,66 @@
+# react-ts-node-typescript
+
+Hi there!
+
+I hope you are doing well. In this project, you can find a software solution to pretend a streaming to allow students watch a video and besides interact each other through a chat.
+
+For the backend, I used Node.js and Express, on the other hand for the frontend, I used React and Redux. As a developer always looking to improve the code quality, I have integrated TypeScript and ESLint as well.
+
+##Demo
+
+- [Demo]()
+
+
+## Features
+- Sing up form: To access the dashboard is necessary fill out the form and submit the information.
+- Sing in: Once you are registered correctly, go to login and fill out the form, next press login button
+- Display streaming: When the dashboard is ready, let's play the video to pretend a real streaming
+- Chat: To finish, let's prove the chat ... typing text as you want it
+
+
+## Technologies 💻
+
+- **Backend**: Node.js, Express, TypeScript, Eslint
+- **Frontend**: React, TypeScript, Scss, Eslint
+
+## Author
+
+- **Sergio Penagos** 🔥
+  - [LinkedIn](https://www.linkedin.com/in/analyst-sergio-penagos)
+  - [GitHub](https://github.com/gioudi)
+  - [GitHub2](https://github.com/SergioVass)
+  - []
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/gioudi/react-ts-node-typescript.git`
+2. Navigate to the project directory: `cd react-ts-node-typescript`
+3. Install dependencies:
+   - Backend: `cd backend && npm install`
+   - Frontend: `cd client && npm install`
+
+## Usage
+
+1. Start the backend server: `cd backend && npm run build && node dist/index.js`
+2. Start the frontend development server: `cd client && npm start`
+
+## Screenshots
+
+![Screenshot]()
+![Screenshot]()
+
+## Links
+1. 
+- [Frontend]()
+- [Backend]()
+- [Backend]()
+
+
+## Versions 🚀
+
+- Node.js: ^20
+- Express: ^4.18.3
+- Eslint: ^8.57.0
+- TypeScript: ^4.9.5
+- React: ^18.2.0
+- Jest: ^5.17.0
